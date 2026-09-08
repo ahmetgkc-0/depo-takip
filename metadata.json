@@ -1,0 +1,6 @@
+{
+  "name": "Depo Stok",
+  "description": "Depo çalışanları için barkod okutarak stok takibi yapan uygulama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
